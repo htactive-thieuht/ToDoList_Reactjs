@@ -1,0 +1,68 @@
+  .todolist {
+    background-color: rgb(0, 121, 191);
+    background-image: url("https://trello-backgrounds.s3.amazonaws.com/SharedBackground/2408x1600/e29564dc62742097a4cb32dc259a383e/photo-1549989476-69a92fa57c36.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+  }
+  .content {
+    margin: 5px;
+    padding: 5px;
+  }
+  .header-midle{
+    align-content: center;
+  }
+  .boardHeader{
+    margin-top: 5px;
+    padding: 5px;
+  }
+  .content{
+    margin-top: 15px;
+  }
+
+  .header-right Button{ 
+    padding: 5px;
+    float: right;
+    margin: 5px;
+  } 
+
+  .header-left Button{ 
+    margin: 5px;
+    float: left;
+    padding: 5px;
+  }
+  .listcards{
+    background-color: rgb(235, 236, 240);
+    border-radius: 3px;
+    padding: 10px;
+    margin-left: 28px;
+  }
+  
+  .itemCard{
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(9,30,66,.25);
+    margin-top: 10px;
+    padding: 5px;
+  }
+
+  .add-card {
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(9,30,66,.25);
+    padding-top: 20px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+  .buttonSave Button{
+    float: left;
+    margin-top: 3px;
+  }
+  .buttonClose Button{
+    float: right;
+    margin-top: 3px;
+  }
+
+
+
